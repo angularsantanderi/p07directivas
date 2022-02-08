@@ -11,7 +11,7 @@ export class DirectivaNgClassComponent implements OnInit {
     {nombre: 'Magic Johnson', equipo: 'lakers'},
     {nombre: 'Larry Bird', equipo: 'celtics'},
     {nombre: 'Michael Jordan', equipo: 'bulls'},
-    {nombre: 'Scottie Pippen', equipo: 'lakers'},
+    {nombre: 'Scottie Pippen', equipo: 'bulls'},
     {nombre: 'Pedro Jiménez'}
   ]
 
